@@ -1,0 +1,28 @@
+h1 {
+    color: rgb(122, 4, 4);
+    background-color: rgb(4, 235, 15);
+    height: 200px;
+    width: 1500px;
+    border-bottom: rgb(31, 235, 235);
+    border-left: rgb(252, 235, 3);
+    text-align: center;
+}
+
+p {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+color: rgb(238, 238, 1);
+width: 500px;
+height: 500px;
+padding-right:400px;
+text-align: center;
+} 
+img {
+    margin: auto auto;
+    width: 700px;
+    height: 700px;
+}
+
+body { 
+    background-color: aqua;
+
+}
